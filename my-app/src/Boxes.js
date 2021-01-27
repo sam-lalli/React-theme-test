@@ -29,6 +29,7 @@ color: white;
 const Boxes = () => {
     return (
         <div>
+            <h1>Welcome To The React ThemeProvider</h1>
             <Box1>
                 <h1>box1</h1>
             </Box1>
